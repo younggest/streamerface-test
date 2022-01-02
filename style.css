@@ -441,6 +441,18 @@ p{
 	color: #7f2a00;
 }
 
-.sspinner-border{
+.spinner-border{
 	color: #7f2a00;
+}
+
+.ad-banner{
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 2rem;
+}
+
+.banner{
+	width: 70%;
+	margin: 0 auto;
+	margin-top: 2rem;
 }
