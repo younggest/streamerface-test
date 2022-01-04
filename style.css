@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
 
 body {
-	font-family: sans-serif;
 	background: #dcbaa9 !important;
-	font-family: 'Jua', sans-serif;
+	font-family: 'Hanna', fantasy;ㄴ
 	box-sizing: border-box;
 	margin-left: 10vw;
 	margin-right: 10vw;
@@ -455,4 +454,10 @@ p{
 	width: 70%;
 	margin: 0 auto;
 	margin-top: 2rem;
+}
+
+.donot{
+	text-align: center;
+	margin-top: 2rem;
+	color: #802a00;
 }
